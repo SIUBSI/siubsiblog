@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksiubsiblog=self.webpackChunksiubsiblog||[]).push([[803],{7816:s=>{s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/author","name":"author","count":1,"permalink":"/blog/tags/author"}')}}]);

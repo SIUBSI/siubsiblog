@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksiubsiblog=self.webpackChunksiubsiblog||[]).push([[186],{132:s=>{s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/basis-data","name":"basis data","count":1,"permalink":"/blog/tags/basis-data"}')}}]);

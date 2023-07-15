@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://siubsi-blog.netlify.app/blog</id>
+    <title>SIUBSI Blog Blog</title>
+    <updated>2023-07-14T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://siubsi-blog.netlify.app/blog"/>
+    <subtitle>SIUBSI Blog Blog</subtitle>
+    <icon>https://siubsi-blog.netlify.app/https://github.com/siubsi.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Uji Profisiensi Basis Data]]></title>
+        <id>Uji-Profisiensi-Basis-Data</id>
+        <link href="https://siubsi-blog.netlify.app/blog/Uji-Profisiensi-Basis-Data"/>
+        <updated>2023-07-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Legalitas Uji Profisiensi Basis Data]]></summary>
+        <author>
+            <name>Reighpuy</name>
+            <uri>https://github.com/reighpuy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Author]]></title>
+        <id>author</id>
+        <link href="https://siubsi-blog.netlify.app/blog/author"/>
+        <updated>2023-05-01T00:00:00.000Z</updated>
+        <author>
+            <name>SIUBSI</name>
+            <uri>https://github.com/siubsi</uri>
+        </author>
+        <author>
+            <name>Reighpuy</name>
+            <uri>https://github.com/reighpuy</uri>
+        </author>
+    </entry>
+</feed>

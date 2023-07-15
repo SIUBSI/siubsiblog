@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>SIUBSI Blog Blog</title>
+        <link>https://siubsi-blog.netlify.app/blog</link>
+        <description>SIUBSI Blog Blog</description>
+        <lastBuildDate>Fri, 14 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Uji Profisiensi Basis Data]]></title>
+            <link>https://siubsi-blog.netlify.app/blog/Uji-Profisiensi-Basis-Data</link>
+            <guid>Uji-Profisiensi-Basis-Data</guid>
+            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Legalitas Uji Profisiensi Basis Data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Author]]></title>
+            <link>https://siubsi-blog.netlify.app/blog/author</link>
+            <guid>author</guid>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

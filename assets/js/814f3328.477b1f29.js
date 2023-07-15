@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksiubsiblog=self.webpackChunksiubsiblog||[]).push([[535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Uji Profisiensi Basis Data","permalink":"/blog/Uji-Profisiensi-Basis-Data"},{"title":"Author","permalink":"/blog/author"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksiubsiblog=self.webpackChunksiubsiblog||[]).push([[892],{8982:s=>{s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/uji-profisiensi","name":"uji profisiensi","count":1,"permalink":"/blog/tags/uji-profisiensi"}')}}]);
